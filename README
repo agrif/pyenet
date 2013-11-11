@@ -22,9 +22,9 @@ obviously, Python.
 Installation
 =====================
 
-The first step is to download the enet sources from http://enet.bespin.org and
-extract it to the enet/ directory in pyenet's source directory.  You could also
-check out the enet source code from their CVS repository.
+The first step is to install enet, hopefully through your system's
+package manager. If your system does not have a package for enet, see
+http://enet.bespin.org.
 
 This version of pyenet requires enet 1.3.
 
